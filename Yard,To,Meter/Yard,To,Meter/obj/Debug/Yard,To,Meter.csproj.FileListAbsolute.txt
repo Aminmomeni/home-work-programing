@@ -1,0 +1,7 @@
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\bin\Debug\Yard,To,Meter.exe.config
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\bin\Debug\Yard,To,Meter.exe
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\bin\Debug\Yard,To,Meter.pdb
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\obj\Debug\Yard,To,Meter.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\obj\Debug\Yard,To,Meter.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\obj\Debug\Yard,To,Meter.exe
+C:\Users\Amin\source\repos\Yard,To,Meter\Yard,To,Meter\obj\Debug\Yard,To,Meter.pdb
