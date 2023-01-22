@@ -1,0 +1,7 @@
+C:\Users\Amin\source\repos\line length\line length\bin\Debug\line length.exe.config
+C:\Users\Amin\source\repos\line length\line length\bin\Debug\line length.exe
+C:\Users\Amin\source\repos\line length\line length\bin\Debug\line length.pdb
+C:\Users\Amin\source\repos\line length\line length\obj\Debug\line length.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\line length\line length\obj\Debug\line length.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\line length\line length\obj\Debug\line length.exe
+C:\Users\Amin\source\repos\line length\line length\obj\Debug\line length.pdb
