@@ -1,0 +1,7 @@
+C:\Users\Amin\source\repos\tax_salary\tax_salary\bin\Debug\tax_salary.exe.config
+C:\Users\Amin\source\repos\tax_salary\tax_salary\bin\Debug\tax_salary.exe
+C:\Users\Amin\source\repos\tax_salary\tax_salary\bin\Debug\tax_salary.pdb
+C:\Users\Amin\source\repos\tax_salary\tax_salary\obj\Debug\tax_salary.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\tax_salary\tax_salary\obj\Debug\tax_salary.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\tax_salary\tax_salary\obj\Debug\tax_salary.exe
+C:\Users\Amin\source\repos\tax_salary\tax_salary\obj\Debug\tax_salary.pdb
