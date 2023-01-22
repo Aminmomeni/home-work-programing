@@ -1,0 +1,7 @@
+C:\Users\Amin\source\repos\PM,AM\PM,AM\obj\Debug\PM,AM.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\PM,AM\PM,AM\obj\Debug\PM,AM.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\PM,AM\PM,AM\bin\Debug\PM,AM.exe.config
+C:\Users\Amin\source\repos\PM,AM\PM,AM\bin\Debug\PM,AM.exe
+C:\Users\Amin\source\repos\PM,AM\PM,AM\bin\Debug\PM,AM.pdb
+C:\Users\Amin\source\repos\PM,AM\PM,AM\obj\Debug\PM,AM.exe
+C:\Users\Amin\source\repos\PM,AM\PM,AM\obj\Debug\PM,AM.pdb
